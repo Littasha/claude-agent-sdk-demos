@@ -162,3 +162,17 @@ FALLBACK: if hidden stock is gone, Vault = pin pack + flight-tag pack only (thos
 - [Verified] All counts, prices, timestamps, sales and inventory figures above come from Notion (Oct 21) and Shopify (Oct 23).
 - [Inference] Placeholder-quantity explanation; Option B lift; starter-set price; tax treatment of donations.
 - [Speculation] None.
+
+---
+
+## ✅ Executed — Oct 23, 2026 (Makonnen said yes)
+
+| Step | Done |
+|---|---|
+| 1. Sync Shopify to shelf | 14 live products set to the Oct 21 count (812 units). Lola Plush set to 0 and hidden (Draft). Writes pinned to the prior quantity; none collided. Products & Inventory "Shopify units" column updated to match. |
+| 2. Kill standalone clearance | TASK-7 rewritten: "Vault + gift-with-purchase inside the Dec 4 drop." Nov 27–30 is tease, not sale. |
+| 3. Old stock routing | TASK-14 narrowed to ringer tees + Lola Plush. Everything else stays listed in the Vault until zero. |
+| 4. Starter set | New card for Ember: "$49 Pick a side starter set + Vault collection spec," due Oct 30. |
+| 5. Hidden 13 | New Needs You card, due Oct 28: count them or say "gone." |
+
+Gate card closed. Command Log work report filed. Bean back to standby.
